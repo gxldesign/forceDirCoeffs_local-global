@@ -1,7 +1,7 @@
 forceDirCoeffs_local-global
 ===========================
 
-Modification of the forceCoeffs library for OpenFOAM to include forces and moments in both global and local to the body coordinate systems.
+Modification of the forceCoeffs library for OpenFOAM to include force and moment coefficients in both global and local to the body coordinate systems.
 
 The files are created for OpenFOAM 2.2.2 and based on the work of Wyldckat (see link below).  
 
